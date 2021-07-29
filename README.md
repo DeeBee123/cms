@@ -19,10 +19,10 @@ LAUNCH
 
 1) Clone this repository.
 2) Start apache and sql server.
-3) Open localhost/cms.
+3) Open localhost/cms in your browser.
 
 USAGE
 
-To navigate click on Buttons or use navigation header.
-Use username = username and password = password to login as an admin.
-To create new page just add title and content.
+* To navigate click on Buttons or use navigation header.
+* Use username = username and password = password to login as an admin.
+* To create new page just add title and content.
